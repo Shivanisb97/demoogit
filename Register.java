@@ -3,7 +3,7 @@ package project;
 public class Register {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+Sysout.out.println("this is second project");
 
 	}
 
